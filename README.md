@@ -175,7 +175,7 @@ wandb.log({"your_plot_name": wandb.Image(plt)})
 
 Your API key is already integrated in the notebook:
 ```python
-wandb.login(key="e0ee8d84ed11289690d688d22090b7049777219e")
+wandb.login(key="copy your API code here")
 ```
 
 **Security Note**: For production use, consider using environment variables:
